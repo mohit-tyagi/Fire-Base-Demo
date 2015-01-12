@@ -1,0 +1,9 @@
+{
+  "firebase": "projectbotfire",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
